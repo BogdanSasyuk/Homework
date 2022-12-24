@@ -1,5 +1,5 @@
 ﻿
-int[] array = new int[6];
+int[] array = new int[5];
 for (int i = 0; i < array.Length; i++)
 {
     array[i] = new Random().Next(1, 10);
@@ -19,7 +19,7 @@ for (int i = 0; i < array.Length; i++)
 int j = array.Length - 1;
 for ( int i = 0; i < (array.Length + 1) / 2; i++ )
 {
-    
-    Console.Write(array[i] * array[j]+ "   ");
+    if(i == j) Console.Write(array[i] + "  ");
+    else       Console.Write(array[i] * array[j]+ "   ");
     j--;
 }
