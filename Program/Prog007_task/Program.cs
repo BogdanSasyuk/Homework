@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Задача 7: Дано число из отрезка [10, 99]. Показать наибольшую цифру числа.
 
 Console.WriteLine("Введите двухзначное число ");
 int n = int.Parse(Console.ReadLine()!);
