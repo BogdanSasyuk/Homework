@@ -1,4 +1,6 @@
-﻿int N = 0;
+﻿//Задача 2: По заданному номеру дня недели вывести его название.
+
+int N = 0;
 N = Convert.ToInt32(Console.ReadLine());
     if(N == 1)
        Console.WriteLine("Понедельник "); 
