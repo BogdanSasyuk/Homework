@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Задача 4:  Выяснить является ли число чётным.
 
 int A = 0;
 int n = 0;
