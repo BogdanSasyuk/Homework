@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Задача 6: Показать вторую цифру трёхзначного числа.
 
 Console.WriteLine("Введите трехзначное число ");
 int A = Convert.ToInt32(Console.ReadLine()); 
