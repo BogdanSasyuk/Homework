@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Задача 9:  Выяснить, кратно ли число заданному, если нет, вывести остаток.
 
 Console.WriteLine("Введите первое число ");
 int A = Convert.ToInt32(Console.ReadLine()); 
