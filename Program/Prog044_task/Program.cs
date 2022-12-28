@@ -1,6 +1,6 @@
 ﻿
 Console.Write("Введите число в десятичной системе: ");
-var decNum = int.Parse(Console.ReadLine());
+var decNum = Convert.ToInt32(Console.ReadLine());
 var binNum = DecToBin(decNum);
 
 string DecToBin(int decNum)
