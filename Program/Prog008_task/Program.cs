@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Задача 8: Удалить вторую цифру трёхзначного числа.
 
 
   
